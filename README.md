@@ -27,4 +27,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joydeep2125&show_icons=true&locale=en" alt="joydeep2125" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joydeep2125&" alt="joydeep2125" /></p>
-<img src="https://raw.githubusercontent.com/bhanupriya-art/bhanupriya-art/output/snake.svg" alt="Snake animation" />
+
